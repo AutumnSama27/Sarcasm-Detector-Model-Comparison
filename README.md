@@ -59,7 +59,7 @@ This project includes Google Colab notebooks for fine-tuning and evaluating RoBE
 
 ### Models:
 
-All the Finetuned model have been uploaded to HuggingFace Platform: 
+All the finetuned model have been uploaded to HuggingFace platform: 
 
 AutumnSama27/Finetuned_Sarcasm2
 
@@ -88,7 +88,7 @@ Click Upload and select the downloaded notebook.
 
 This project was developed and tested on: Python 3.11
 
-This project uses Local Runtime through jupiter notebook
+This project uses Local Runtime through jupyter notebook
 
 The required libraries are : transformers 
 datasets

@@ -57,6 +57,19 @@ Side-by-side comparison of all models
 
 This project includes Google Colab notebooks for fine-tuning and evaluating RoBERTa-base and RoBERTa-large sarcasm detection models. To reproduce the experiments or run the code, please follow the instructions below.
 
+### Models:
+
+All the Finetuned model have been uploaded to HuggingFace Platform: 
+
+AutumnSama27/Finetuned_Sarcasm2
+
+AutumnSama27/ftroberta_sarcasm
+
+AutumnSama27/ultimate_sarcasm_detector_v2
+
+AutumnSama27/ultimate_sarcasm_detector_v1
+
+AutumnSama27/Finetuned_Salsa
 
 ### How to View the files:
 
